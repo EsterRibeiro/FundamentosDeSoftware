@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
+//elemento base
 namespace AbstractFactoryProject.Interface
 {
-    class IRevestimento
+    public interface IRevestimento
     {
         void Composicao();
     }

@@ -10,7 +10,7 @@ namespace AbstractFactoryProject
     {
         public void Composicao()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Energia de sustentação da base pela terra");
         }
     }
 }

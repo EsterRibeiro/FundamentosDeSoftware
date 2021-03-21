@@ -1,16 +1,15 @@
-﻿
-using AbstractFactoryProject.Interface;
+﻿using AbstractFactoryProject.Interface;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace AbstractFactoryProject
 {
-    public class EnergiaBaseTProtoss : IEnergia
+    public class EnergiaBaseTerran : IEnergia
     {
         public void Composicao()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Energia de sustentação da base mecânica");
         }
     }
 }
