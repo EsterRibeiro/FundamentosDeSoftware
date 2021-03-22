@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Estruturais", "Estruturais"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Comportamentais", "Comportamentais", "{01AF8FDA-0A0C-4D5C-AAEA-66CA6764A8AB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{19D8F5FF-3B9C-47CF-BE10-BBD398809B49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonProject", "Singleton\SingletonProject.csproj", "{19D8F5FF-3B9C-47CF-BE10-BBD398809B49}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{975ECCCB-5A5D-4577-AAB8-3E27BC40D290}"
 EndProject
